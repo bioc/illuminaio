@@ -1,6 +1,9 @@
 Package: illuminaio
 ===================
 
+Version: 0.6.1. [2014-09-23]
+o Fixed issues with vignette and CITATION.
+
 Version: 0.6.0 [2014-04-11]
 o The version number was bumped for the Bioconductor release version,
   which is now BioC v2.14 for R (>= 3.1.0).
